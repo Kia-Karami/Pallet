@@ -1,0 +1,19 @@
+{
+  "name": "pallet",
+  "version": "1.0.0",
+  "description": "A modern web application",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview"
+  },
+  "keywords": ["web", "frontend", "vite"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {}
+}
